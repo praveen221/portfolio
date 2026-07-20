@@ -8,8 +8,9 @@ Personal portfolio site for [GitHub Pages](https://pages.github.com/).
 
 | File | Purpose |
 |------|---------|
-| `index.html` | Single-page portfolio (about, projects, experience, skills, sites, contact) |
-| `styles.css` | Dark theme layout and styling |
+| `index.html` | Compact single-page portfolio |
+| `styles.css` | xAI-inspired dark canvas (tokens aligned with Mad World `DESIGN.md`) |
+| `favicon.svg` | Tab icon |
 
 Static HTML/CSS only — no build step.
 
