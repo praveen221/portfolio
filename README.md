@@ -11,6 +11,7 @@ Personal portfolio site for [GitHub Pages](https://pages.github.com/).
 | `index.html` | Compact single-page portfolio |
 | `styles.css` | xAI-inspired dark canvas (tokens aligned with Mad World `DESIGN.md`) |
 | `favicon.svg` | Tab icon |
+| `Praveen-Jangid-CV.pdf` | CV file served for the Download CV button |
 
 Static HTML/CSS only — no build step.
 
