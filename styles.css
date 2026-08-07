@@ -292,6 +292,14 @@ hr.hairline {
   margin-bottom: 0.25rem;
 }
 
+.card-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  flex-shrink: 0;
+}
+
 .card .meta {
   font-size: 0.8rem;
   color: var(--mute);
